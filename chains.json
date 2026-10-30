@@ -1,0 +1,16 @@
+[
+  { "id": "bitcoin",   "name": "Bitcoin",     "symbol": "BTC",  "type": "UTXO", "chainId": null,  "decimals": 8,  "explorer": "https://mempool.space",                "coingeckoId": "bitcoin" },
+  { "id": "ethereum",  "name": "Ethereum",    "symbol": "ETH",  "type": "EVM",  "chainId": 1,     "decimals": 18, "explorer": "https://etherscan.io",                 "coingeckoId": "ethereum" },
+  { "id": "bnb",       "name": "BNB Chain",   "symbol": "BNB",  "type": "EVM",  "chainId": 56,    "decimals": 18, "explorer": "https://bscscan.com",                  "coingeckoId": "binancecoin" },
+  { "id": "solana",    "name": "Solana",      "symbol": "SOL",  "type": "SVM",  "chainId": null,  "decimals": 9,  "explorer": "https://solscan.io",                   "coingeckoId": "solana" },
+  { "id": "tron",      "name": "Tron",        "symbol": "TRX",  "type": "TVM",  "chainId": null,  "decimals": 6,  "explorer": "https://tronscan.org",                 "coingeckoId": "tron" },
+  { "id": "polygon",   "name": "Polygon",     "symbol": "POL",  "type": "EVM",  "chainId": 137,   "decimals": 18, "explorer": "https://polygonscan.com",              "coingeckoId": "matic-network" },
+  { "id": "arbitrum",  "name": "Arbitrum",    "symbol": "ETH",  "type": "EVM",  "chainId": 42161, "decimals": 18, "explorer": "https://arbiscan.io",                  "coingeckoId": "ethereum" },
+  { "id": "optimism",  "name": "Optimism",    "symbol": "ETH",  "type": "EVM",  "chainId": 10,    "decimals": 18, "explorer": "https://optimistic.etherscan.io",      "coingeckoId": "ethereum" },
+  { "id": "base",      "name": "Base",        "symbol": "ETH",  "type": "EVM",  "chainId": 8453,  "decimals": 18, "explorer": "https://basescan.org",                 "coingeckoId": "ethereum" },
+  { "id": "avalanche", "name": "Avalanche",   "symbol": "AVAX", "type": "EVM",  "chainId": 43114, "decimals": 18, "explorer": "https://snowtrace.io",                 "coingeckoId": "avalanche-2" },
+  { "id": "litecoin",  "name": "Litecoin",    "symbol": "LTC",  "type": "UTXO", "chainId": null,  "decimals": 8,  "explorer": "https://blockchair.com/litecoin",      "coingeckoId": "litecoin" },
+  { "id": "dogecoin",  "name": "Dogecoin",    "symbol": "DOGE", "type": "UTXO", "chainId": null,  "decimals": 8,  "explorer": "https://blockchair.com/dogecoin",      "coingeckoId": "dogecoin" },
+  { "id": "xrp",       "name": "XRP Ledger",  "symbol": "XRP",  "type": "XRPL", "chainId": null,  "decimals": 6,  "explorer": "https://xrpscan.com",                  "coingeckoId": "ripple" },
+  { "id": "cosmos",    "name": "Cosmos Hub",  "symbol": "ATOM", "type": "Cosmos","chainId": null, "decimals": 6,  "explorer": "https://www.mintscan.io/cosmos",       "coingeckoId": "cosmos" }
+]
